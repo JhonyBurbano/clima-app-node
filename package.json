@@ -9,7 +9,7 @@
   "author": "Jhony Burbano",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.32.0",
     "yargs": "^15.3.1"
   }
 }
